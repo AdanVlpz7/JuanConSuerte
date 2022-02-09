@@ -17,7 +17,7 @@ int obtenerGanancia(int d1, int d2, int d3){
 
 int main(void) {
   printf("@author: Miguel Adan Vargas Lopez\n");
-
+  srand(time(NULL));
   int f1 = 0,f2 = 0,f3= 0, f4 = 0;
   int d1;
   int d2;
